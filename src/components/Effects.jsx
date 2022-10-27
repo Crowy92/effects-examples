@@ -24,11 +24,6 @@ const Effects = () => {
     //     const timer = setInterval(() => {
     //         console.log("3 seconds passed");
     //     }, 3000)
-
-    //     return () => {
-    //         clearInterval(timer);
-    //         console.log("cleared the timer");
-    //     }
     // }, [val])
 
     function handleClick () {
